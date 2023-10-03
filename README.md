@@ -1,8 +1,10 @@
 # thatgaypigeon
 
-Hi! I am **Pigeon**! You may also know me as **thatgaypigeon**, or **Pigeon43**!
+Hai! I'm **Pigeon**! You may also know me as **thatgaypigeon**, **Pigeon43**, or **Pidge**!
 
 This is the main hub repository for my stuff, containing a wide variety of material. Feel free to look around! :D
+
+*More about me coming soon... :p*
 
 > [!NOTE]
 > Almost everything here is still a work-in-progress. :p
@@ -13,6 +15,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
   * <sub><sub>![Python](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> – [convert-colour-lua](/../../../convert-colour-lua)
   * <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> – [convert-colour-py](/../../../convert-colour-py)
 * [`datetime-lua`](/../../../datetime-lua), a <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> package for handling dates & times. Built with inspiration from Python's native [`datetime`](https://docs.python.org/3/library/datetime.html) module.
+* [kami-2-solver](/../../../kami-2-solver), a solver for the mobile puzzle game [KAMI 2](https://www.stateofplaygames.com/kami2), written in <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>.
 * [mediawiki-stuff](/../../../mediawiki-stuff), a collection of MediaWiki gadgets, styles and other stuff.
 * [mythical-madness](/../../../mythical-madness), a PvZ Heroes mod focused on magic and monsters! 🔮👻🎃
 * `pigeon`, miscellaneous jumbles of mini-modules not quite big enough for their own packages.
@@ -27,11 +30,16 @@ This is the main hub repository for my stuff, containing a wide variety of mater
   * <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> – [somos-py](/../../../somos-py)
 * [yatpwl](/../../../yatpwl), **Y**et **A**nother **T**oki **P**ona **W**ord **L**ist! :p
 
+### Repositories to be
+* A repo for the Overwatch 2 workshop modes I plan to make.
+* A repo for a programming language I plan to write. (Most likely to be named "Pidge" or something.)
+
 ## Other projects
 * [My wiki](https://thatgaypigeon.miraheze.org), a place for documenting my interests, passions, and creative projects, from music and video games to languages and world-building!
   > [!IMPORTANT]
   > Currently Private!
 * [My Github Pages site](https://thatgaypigeon.github.io), a make-shift website homepage functioning similarly to this README. Also contains a variety of web tools I use just to keep them all in one place.
+* [Stego Suite](https://Artemis21/pydis-jam23), a collaborative <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>-based [steganography](https://en.wikipedia.org/wiki/Steganography) application written for our team's entry to the [Python Discord 2023 Code Jam](https://www.pythondiscord.com/events/code-jams/10/).
 
 ## Explore
 Explore this repository if something takes your fancy!

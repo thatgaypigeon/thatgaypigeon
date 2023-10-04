@@ -11,15 +11,15 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 
 ## Repositories
 * [cities-skylines](/../../../sities-skylines), a collection of custom assets for **Cities: Skylines** *(and hopefully Cities: Skylines 2)*!
-* [`convert-colour-py`](/../../../convert-colour-py), a <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for basic colour system conversions.
-* [`datetime-lua`](/../../../datetime-lua), a <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> package for handling dates & times. Built with inspiration from Python's native [`datetime`](https://docs.python.org/3/library/datetime.html) module.
+* [convert-colour-py](/../../../convert-colour-py), a <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for basic colour system conversions.
+* [datetime-lua](/../../../datetime-lua), a <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> package for handling dates & times. Built with inspiration from Python's native [`datetime`](https://docs.python.org/3/library/datetime.html) module.
 * [kami-2-solver](/../../../kami-2-solver), a solver for the mobile puzzle game [KAMI 2](https://www.stateofplaygames.com/kami2), written in <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>.
 * [mediawiki-stuff](/../../../mediawiki-stuff), a collection of MediaWiki gadgets, styles and other stuff.
 * [mythical-madness](/../../../mythical-madness), a PvZ Heroes mod focused on magic and monsters! 🔮👻🎃
-* [`pigeon-py`](/../../../pigeon-py), a miscellaneous jumble of <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> mini-modules not quite big enough for their own packages.
+* [pigeon-py](/../../../pigeon-py), a miscellaneous jumble of <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> mini-modules not quite big enough for their own packages.
 * [pigeon-bot](/../../../pigeon-bot), a lil' Discord bot coded in <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>.
 * [project-euler](/../../../project-euler), my solutions for [Project Euler](https://projecteuler.net).
-* [`somos-py`](/../../../somos-py), a basic <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for generating [Somos sequences](https://en.wikipedia.org/wiki/Somos_sequence).
+* [somos-py](/../../../somos-py), a basic <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for generating [Somos sequences](https://en.wikipedia.org/wiki/Somos_sequence).
 * [yatpwl](/../../../yatpwl), **Y**et **A**nother **T**oki **P**ona **W**ord **L**ist! :p
 
 ### Repositories to be

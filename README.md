@@ -32,7 +32,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
   > [!IMPORTANT]
   > Currently Private!
 * [My Github Pages site](https://thatgaypigeon.github.io), a make-shift website homepage functioning similarly to this README. Also contains a variety of web tools I use just to keep them all in one place.
-* [Stego Suite](https://Artemis21/pydis-jam23), a collaborative <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>-based [steganography](https://en.wikipedia.org/wiki/Steganography) application written for our team's entry to the [Python Discord 2023 Code Jam](https://www.pythondiscord.com/events/code-jams/10/).
+* [Stego Suite](https://github.com/Artemis21/pydis-jam23), a collaborative <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>-based [steganography](https://en.wikipedia.org/wiki/Steganography) application written for our team's entry to the [Python Discord 2023 Code Jam](https://www.pythondiscord.com/events/code-jams/10/).
 
 ## Explore
 Explore this repository if something takes your fancy!

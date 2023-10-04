@@ -11,28 +11,21 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 
 ## Repositories
 * [cities-skylines](/../../../sities-skylines), a collection of custom assets for **Cities: Skylines** *(and hopefully Cities: Skylines 2)*!
-* `convert-colour`, packages for basic colour system conversions.
-  * <sub><sub>![Python](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> – [convert-colour-lua](/../../../convert-colour-lua)
-  * <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> – [convert-colour-py](/../../../convert-colour-py)
+* [`convert-colour-py`](/../../../convert-colour-py), a <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for basic colour system conversions.
 * [`datetime-lua`](/../../../datetime-lua), a <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> package for handling dates & times. Built with inspiration from Python's native [`datetime`](https://docs.python.org/3/library/datetime.html) module.
 * [kami-2-solver](/../../../kami-2-solver), a solver for the mobile puzzle game [KAMI 2](https://www.stateofplaygames.com/kami2), written in <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>.
 * [mediawiki-stuff](/../../../mediawiki-stuff), a collection of MediaWiki gadgets, styles and other stuff.
 * [mythical-madness](/../../../mythical-madness), a PvZ Heroes mod focused on magic and monsters! 🔮👻🎃
-* `pigeon`, miscellaneous jumbles of mini-modules not quite big enough for their own packages.
-  * <sub><sub>![JavaScript](https://img.shields.io/badge/JavaScript-F2D83F?logo=JavaScript&logoColor=black)</sub></sub> – [pigeon-js](/../../../pigeon-js)
-  * <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> – [pigeon-lua](/../../../pigeon-lua)
-  * <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> – [pigeon-py](/../../../pigeon-py)
+* [`pigeon-py`](/../../../pigeon-py), a miscellaneous jumble of <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> mini-modules not quite big enough for their own packages.
 * [pigeon-bot](/../../../pigeon-bot), a lil' Discord bot coded in <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>.
 * [project-euler](/../../../project-euler), my solutions for [Project Euler](https://projecteuler.net).
-* `somos`, basic packages for generating [Somos sequences](https://en.wikipedia.org/wiki/Somos_sequence).
-  * <sub><sub>![JavaScript](https://img.shields.io/badge/JavaScript-F2D83F?logo=JavaScript&logoColor=black)</sub></sub> – [somos-js](/../../../somos-js)
-  * <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> – [somos-lua](/../../../somos-lua)
-  * <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> – [somos-py](/../../../somos-py)
+* [`somos-py`](/../../../somos-py), a basic <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for generating [Somos sequences](https://en.wikipedia.org/wiki/Somos_sequence).
 * [yatpwl](/../../../yatpwl), **Y**et **A**nother **T**oki **P**ona **W**ord **L**ist! :p
 
 ### Repositories to be
 * A repo for the Overwatch 2 workshop modes I plan to make.
 * A repo for a programming language I plan to write. (Most likely to be named "Pidge" or something.)
+* A repo for my Firefox themes. Maybe also for Chrome, too.
 
 ## Other projects
 * [My wiki](https://thatgaypigeon.miraheze.org), a place for documenting my interests, passions, and creative projects, from music and video games to languages and world-building!

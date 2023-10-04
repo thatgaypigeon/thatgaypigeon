@@ -16,8 +16,8 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [kami-2-solver](/../../../kami-2-solver), a solver for the mobile puzzle game [KAMI 2](https://www.stateofplaygames.com/kami2), written in <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>.
 * [mediawiki-stuff](/../../../mediawiki-stuff), a collection of MediaWiki <sub><sub>![JavaScript](https://img.shields.io/badge/JavaScript-F2D83F?logo=JavaScript&logoColor=black)</sub></sub> gadgets, <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> modules, <sub><sub>![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white)</sub></sub> styles, templates and other stuff.
 * [mythical-madness](/../../../mythical-madness), a PvZ Heroes mod focused on magic and monsters! 🔮👻🎃
-* [pigeon-py](/../../../pigeon-py), a miscellaneous jumble of <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> mini-modules not quite big enough for their own packages.
 * [pigeon-bot](/../../../pigeon-bot), a lil' Discord bot coded in <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>.
+* [pigeon-py](/../../../pigeon-py), a miscellaneous jumble of <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> mini-modules not quite big enough for their own packages.
 * [project-euler](/../../../project-euler), my solutions for [Project Euler](https://projecteuler.net).
 * [somos-py](/../../../somos-py), a basic <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for generating [Somos sequences](https://en.wikipedia.org/wiki/Somos_sequence).
 * [yatpwl](/../../../yatpwl), **Y**et **A**nother **T**oki **P**ona **W**ord **L**ist! :p

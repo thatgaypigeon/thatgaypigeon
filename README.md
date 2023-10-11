@@ -20,6 +20,8 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [pigeon-py](/../../../pigeon-py), a miscellaneous jumble of <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> mini-modules not quite big enough for their own packages.
 * [project-euler](/../../../project-euler), my solutions for [Project Euler](https://projecteuler.net).
 * [somos-py](/../../../somos-py), a basic <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for generating [Somos sequences](https://en.wikipedia.org/wiki/Somos_sequence).
+* [thatgaypigeon](/../../../thatgaypigeon), You are here! :D
+* [thatgaypigeon.github.io](/../../../thatgaypigeon.github.io), the source of my GitHub pages site. (See [§ Other projects](#other-projects).)
 * [yatpwl](/../../../yatpwl), **Y**et **A**nother **T**oki **P**ona **W**ord **L**ist! :p
 
 ### Repositories to be

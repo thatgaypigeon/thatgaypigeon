@@ -26,7 +26,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [somos-py](https://github.com/thatgaypigeon/somos-py), a basic <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for generating [Somos sequences](https://en.wikipedia.org/wiki/Somos_sequence).
 * [thatgaypigeon](https://github.com/thatgaypigeon/thatgaypigeon), You are here! :D
 * [thatgaypigeon.github.io](https://github.com/thatgaypigeon/thatgaypigeon.github.io), the source of my GitHub pages site. (See [§ Other projects](#other-projects).)
-* [yatpwl](/../../../yatpwl), **Y**et **A**nother **T**oki **P**ona **W**ord **L**ist! :p
+* [yatpwl](https://github.com/thatgaypigeon/yatpwl), **Y**et **A**nother **T**oki **P**ona **W**ord **L**ist! :p
 
 ### Repositories to be
 * A repo for the Overwatch 2 workshop modes I plan to make.

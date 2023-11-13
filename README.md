@@ -21,7 +21,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [mythical-madness](https://github.com/thatgaypigeon/mythical-madness), a PvZ Heroes mod focused on magic and monsters! 🔮👻🎃
 * [conlangs](https://github.com/thatgaypigeon/conlangs), a collection of conlangs I am making or have made (whether finished or not). Maybe eventually they will have their own repositories, who knows.
 * [pigeon-bot](https://github.com/thatgaypigeon/pigeon-bot), a lil' Discord bot coded in <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>.
-* [pigeon-py](/../../../pigeon-py), a miscellaneous jumble of <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> mini-modules not quite big enough for their own packages.
+* [pigeon-py](https://github.com/thatgaypigeon/pigeon-py), a miscellaneous jumble of <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> mini-modules not quite big enough for their own packages.
 * [project-euler](/../../../project-euler), my solutions for [Project Euler](https://projecteuler.net).
 * [somos-py](/../../../somos-py), a basic <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for generating [Somos sequences](https://en.wikipedia.org/wiki/Somos_sequence).
 * [thatgaypigeon](/../../../thatgaypigeon), You are here! :D

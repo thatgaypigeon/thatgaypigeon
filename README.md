@@ -13,7 +13,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [cities-skylines]([https://github.com/cities-skylines), a collection of custom assets for **Cities: Skylines** *(and hopefully Cities: Skylines 2)*!
 * [conlangs](https://github.com/thatgaypigeon/conlangs), a collection of conlangs I am making or have made (whether finished or not). Maybe eventually they will have their own repositories, who knows.
 * [convert-colour-py](https://github.com/convert-colour-py), a <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for basic colour system conversions.
-* [datetime-lua](/../../../datetime-lua), a <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> package for handling dates & times. Built with inspiration from Python's native [`datetime`](https://docs.python.org/3/library/datetime.html) module.
+* [datetime-lua](https://github.com/datetime-lua), a <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> package for handling dates & times. Built with inspiration from Python's native [`datetime`](https://docs.python.org/3/library/datetime.html) module.
 * [glossary](/../../../glossary), cool and interesting words you can use! (May be removed at some point)
 * [kami-2-solver](/../../../kami-2-solver), a solver for the mobile puzzle game [KAMI 2](https://www.stateofplaygames.com/kami2), written in <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>.
 * [lego](/../../../lego), a collection of LEGO MOCs I've made and their instructions.

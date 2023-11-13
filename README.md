@@ -19,7 +19,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [lego](https://github.com/thatgaypigeon/lego), a collection of LEGO MOCs I've made and their instructions.
 * [mediawiki](https://github.com/thatgaypigeon/mediawiki), a collection of MediaWiki <sub><sub>![JavaScript](https://img.shields.io/badge/JavaScript-F2D83F?logo=JavaScript&logoColor=black)</sub></sub> gadgets, <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> modules, <sub><sub>![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white)</sub></sub> styles, templates and other stuff.
 * [mythical-madness](https://github.com/thatgaypigeon/mythical-madness), a PvZ Heroes mod focused on magic and monsters! 🔮👻🎃
-* [conlangs](https://github.com/thatgaypigeon/conlangs), a collection of conlangs I am making or have made (whether finished or not). Maybe eventually they will have their own repositories, who knows.
+* [phrasebook](https://github.com/thatgaypigeon/phrasebook), a collection of words and their translations into other languages. (May be removed at some point)
 * [pigeon-bot](https://github.com/thatgaypigeon/pigeon-bot), a lil' Discord bot coded in <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>.
 * [pigeon-py](https://github.com/thatgaypigeon/pigeon-py), a miscellaneous jumble of <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> mini-modules not quite big enough for their own packages.
 * [project-euler](https://github.com/thatgaypigeon/project-euler), my solutions for [Project Euler](https://projecteuler.net).

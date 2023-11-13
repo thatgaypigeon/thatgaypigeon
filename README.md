@@ -10,7 +10,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 > Almost everything here is still a work-in-progress. :p
 
 ## Repositories
-* [cities-skylines](/../../../cities-skylines), a collection of custom assets for **Cities: Skylines** *(and hopefully Cities: Skylines 2)*!
+* [cities-skylines]([/../../../](https://github.com/)cities-skylines), a collection of custom assets for **Cities: Skylines** *(and hopefully Cities: Skylines 2)*!
 * [conlangs](https://github.com/thatgaypigeon/conlangs), a collection of conlangs I am making or have made (whether finished or not). Maybe eventually they will have their own repositories, who knows.
 * [convert-colour-py](/../../../convert-colour-py), a <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for basic colour system conversions.
 * [datetime-lua](/../../../datetime-lua), a <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> package for handling dates & times. Built with inspiration from Python's native [`datetime`](https://docs.python.org/3/library/datetime.html) module.

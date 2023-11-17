@@ -9,6 +9,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [beamng](https://github.com/thatgaypigeon/beamng), miscellaneous BeamNG content.
 * [blender](https://github.com/thatgaypigeon/blender), 3D models made in Blender.
 * [cities-skylines](https://github.com/thatgaypigeon/cities-skylines), a collection of custom assets for **Cities: Skylines**!
+* [conlangs](https://github.com/thatgaypigeon/conlangs), my conlangs. Maybe eventually they will have their own repositories, who knows.
 * [convert-colour-py](https://github.com/thatgaypigeon/convert-colour-py), a <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for basic colour system conversions.
 * [datetime-lua](https://github.com/thatgaypigeon/datetime-lua), a <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> package for handling dates & times. Built with inspiration from Python's native [`datetime`](https://docs.python.org/3/library/datetime.html) module.
 * [ideas](https://github.com/thatgaypigeon/ideas), miscellaneous ideas.

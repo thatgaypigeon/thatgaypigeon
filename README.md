@@ -31,7 +31,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [thatgaypigeon](https://github.com/thatgaypigeon/thatgaypigeon), You are here! :D
 * [thatgaypigeon.github.io](https://github.com/thatgaypigeon/thatgaypigeon.github.io), the source of my GitHub pages site. (See [§ Other projects](#other-projects).)
 * [tmnf](https://github.com/thatgaypigeon/tmnf), TMNF content (tracks, replays).
-* [videos](https://github.com/thatgaypigeon/videos), my videos! (Mainly from YouTube).
+* [videos](https://github.com/thatgaypigeon/videos), my videos (from YouTube).
 * [worldbuilding](https://github.com/thatgaypigeon/worldbuilding), my worldbuilding projects. Maybe eventually they will have their own repositories, who knows.
 * [yatpwl](https://github.com/thatgaypigeon/yatpwl), **Y**et **A**nother **T**oki **P**ona **W**ord **L**ist! :p
 

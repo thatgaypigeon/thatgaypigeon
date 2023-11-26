@@ -28,7 +28,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [project-euler](https://github.com/thatgaypigeon/project-euler), my solutions for [Project Euler](https://projecteuler.net).
 * [somos-py](https://github.com/thatgaypigeon/somos-py), a basic <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for generating [Somos sequences](https://en.wikipedia.org/wiki/Somos_sequence).
 * [standards](https://github.com/thatgaypigeon/standards), code style standards for my projects, to maintain consistency.
-* [tests](https://github.com/thatgaypigeon/tests)
+* [tests](https://github.com/thatgaypigeon/tests), various tests for other stuff.
 * [thatgaypigeon](https://github.com/thatgaypigeon/thatgaypigeon), You are here! :D
 * [thatgaypigeon.github.io](https://github.com/thatgaypigeon/thatgaypigeon.github.io), the source of my GitHub pages site. (See [§ Other projects](#other-projects).)
 * [tmnf](https://github.com/thatgaypigeon/tmnf), TMNF content (tracks, replays).

@@ -1,1 +1,4 @@
 # Fonts
+
+- Poppins
+- Space Mono

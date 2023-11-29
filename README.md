@@ -6,7 +6,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 
 ## Repositories
 
-* [aoc](https://github.com/thatgaypigeon/aoc), **A**dvent **o**f **C**ode.
+* [aoc](https://github.com/thatgaypigeon/aoc), **A**dvent **O**f **C**ode.
 * [beamng](https://github.com/thatgaypigeon/beamng), miscellaneous BeamNG stuff.
 * [blender](https://github.com/thatgaypigeon/blender), 3D models made in Blender.
 * [cities-skylines](https://github.com/thatgaypigeon/cities-skylines), a collection of custom assets for **Cities: Skylines**!

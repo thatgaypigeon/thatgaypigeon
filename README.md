@@ -13,6 +13,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [conlangs](https://github.com/thatgaypigeon/conlangs), my conlangs. Maybe eventually they will have their own repositories, who knows.
 * [convert-colour-py](https://github.com/thatgaypigeon/convert-colour-py), a <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for basic colour system conversions.
 * [datetime-lua](https://github.com/thatgaypigeon/datetime-lua), a <sub><sub>![Lua](https://img.shields.io/badge/Lua-00007c?logo=Lua&logoColor=white)</sub></sub> package for handling dates & times. Built with inspiration from Python's native [`datetime`](https://docs.python.org/3/library/datetime.html) module.
+* [design](https://github.com/thatgaypigeon/design), for my UI designs, concepts, and other cool-lookin' stuff!
 * [firefox](https://github.com/thatgaypigeon/firefox), stuff for Firefox.
 * [glossary](https://github.com/thatgaypigeon/glossary), cool / interesting words you should use.
 * [ideas](https://github.com/thatgaypigeon/ideas), miscellaneous ideas.
@@ -29,7 +30,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [project-euler](https://github.com/thatgaypigeon/project-euler), my solutions for [Project Euler](https://projecteuler.net).
 * [somos-py](https://github.com/thatgaypigeon/somos-py), a basic <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub> package for generating [Somos sequences](https://en.wikipedia.org/wiki/Somos_sequence).
 * [standards](https://github.com/thatgaypigeon/standards), code style standards for my projects, to maintain consistency.
-* [tests](https://github.com/thatgaypigeon/tests), various tests for other stuff.
+* [test](https://github.com/thatgaypigeon/test), various tests for other stuff.
 * [thatgaypigeon](https://github.com/thatgaypigeon/thatgaypigeon), You are here! :D
 * [thatgaypigeon.github.io](https://github.com/thatgaypigeon/thatgaypigeon.github.io), the source of my GitHub pages site. (See [§ Other projects](#other-projects).)
 * [tmnf](https://github.com/thatgaypigeon/tmnf), TMNF content (tracks, replays).

@@ -35,6 +35,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 * [thatgaypigeon.github.io](https://github.com/thatgaypigeon/thatgaypigeon.github.io), the source of my GitHub pages site. (See [§ Other projects](#other-projects).)
 * [tmnf](https://github.com/thatgaypigeon/tmnf), TMNF content (tracks, replays).
 * [videos](https://github.com/thatgaypigeon/videos), my videos (from YouTube).
+* [vscode](https://github.com/thatgaypigeon/vscode), my Visual Studio Code stuff. (Themes, extensions, config files, etc.)
 * [worldbuilding](https://github.com/thatgaypigeon/worldbuilding), my worldbuilding projects. Maybe eventually they will have their own repositories, who knows.
 * [yatpwl](https://github.com/thatgaypigeon/yatpwl), **Y**et **A**nother **T**oki **P**ona **W**ord **L**ist! :p
 

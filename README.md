@@ -6,7 +6,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 
 ## Repositories
 
-* [aoc](https://github.com/thatgaypigeon/aoc), **A**dvent **O**f **C**ode.
+* [advent-of-code](https://github.com/thatgaypigeon/advent-of-code), **A**dvent **O**f **C**ode.
 * [beamng](https://github.com/thatgaypigeon/beamng), miscellaneous BeamNG stuff.
 * [blender](https://github.com/thatgaypigeon/blender), 3D models made in Blender.
 * [cities-skylines](https://github.com/thatgaypigeon/cities-skylines), a collection of custom assets for **Cities: Skylines**!
@@ -53,7 +53,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 Explore this repository if something takes your fancy!
 
 * [awesome](/awesome), a list of [awesome](https://github.com/topics/awesome) things!
-* [emotes](/emotes)[^1], a collection of emotes I like. Generally from Twitch; they can be used with Discord, WhatsApp, iMessage, etc. 
+* [emotes](/emotes)[^1], a collection of emotes I like. Generally from Twitch; they can be used with Discord, WhatsApp, iMessage, etc.
 * [fonts](/fonts)[^1], a collection of cool fonts.
 * [misc](/misc), everything else.
 

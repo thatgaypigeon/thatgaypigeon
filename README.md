@@ -48,7 +48,7 @@ This is the main hub repository for my stuff, containing a wide variety of mater
 ## Other projects
 
 * [My wiki](https://thatgaypigeon.miraheze.org), a place for documenting my interests, passions, and creative projects, from music and video games to languages and world-building! (🚧 Currently Private! 🚧)
-* [My Github Pages site](https://thatgaypigeon.github.io), a make-shift website homepage functioning similarly to this README. Also contains a variety of web tools I use just to keep them all in one place.
+* [The Nest](https://pigeon.uk.to/), my website homepage functioning similarly to this README. Also contains a variety of web tools I use just to keep them all in one place. You can find out how I built it (all for free!) [**here**](https://pigeon.uk.to/about#how-did-you-make-this).
 * [Stego Suite](https://github.com/Artemis21/pydis-jam23), a collaborative <sub><sub>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)</sub></sub>-based [steganography](https://en.wikipedia.org/wiki/Steganography) application written for our team's entry to the [Python Discord 2023 Code Jam](https://www.pythondiscord.com/events/code-jams/10/).
 * [My Bandcamp](https://thatgaypigeon.bandcamp.com), for my "music". (🚧 Currently unreleased! 🚧)
 
